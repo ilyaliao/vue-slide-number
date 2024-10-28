@@ -43,4 +43,4 @@ Checkout the [Playground](./playground/) for more examples.
 
 ## License
 
-[MIT](./LICENSE) License © 2024 [CofCat](https://github.com/CofCat456)
+[MIT](./LICENSE) License © 2024 [Jack Liao](https://github.com/ilyaliao)

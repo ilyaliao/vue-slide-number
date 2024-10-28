@@ -4,15 +4,15 @@
   "version": "0.0.6",
   "packageManager": "pnpm@9.0.6",
   "description": "A Vue component for number slide animation",
-  "author": "CofCat <a25690756@gmail.com>",
+  "author": "ilyaliao",
   "license": "MIT",
-  "homepage": "https://github.com/CofCat456/vue-slide-number#readme",
+  "homepage": "https://github.com/ilyaliao/vue-slide-number#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CofCat456/vue-slide-number.git"
+    "url": "git+https://github.com/ilyaliao/vue-slide-number.git"
   },
   "bugs": {
-    "url": "https://github.com/CofCat456/vue-slide-number/issues"
+    "url": "https://github.com/ilyaliao/vue-slide-number/issues"
   },
   "keywords": [
     "number",
